@@ -16,7 +16,7 @@ function criaDisco(){
 }
 
 function criaTabuleiro(){
-    const novoTabuleiro = documento.createElement("div");
+    const novoTabuleiro = document.createElement("div");
     novoTabuleiro.classList.add("tabuleiro");
     return novoTabuleiro;
 }
