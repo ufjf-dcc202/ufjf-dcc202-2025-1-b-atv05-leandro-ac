@@ -1,4 +1,4 @@
-import { getTabuleiro, seleciona } from "./discos.js";
+import { getTabuleiro, seleciona } from "./disco.js";
 
 const eH1 = document.querySelector("h1");
 eH1.textContent = "Olá mundo!";
